@@ -252,7 +252,9 @@ body::-webkit-scrollbar {
     }
   }
   
-
+.container{
+  
+}
   .grid{
     display: flex;
     flex-wrap: wrap;
